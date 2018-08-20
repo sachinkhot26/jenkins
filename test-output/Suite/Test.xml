@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Sachins-Air.blr-office.geekyants.com" name="sample.Jenkins" tests="1" failures="0" timestamp="20 Aug 2018 11:11:52 GMT" time="3.455" errors="0">
+  <testcase name="launchBrowser" time="3.438" classname="sample.Jenkins"/>
+</testsuite>
